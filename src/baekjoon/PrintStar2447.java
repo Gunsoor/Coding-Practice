@@ -1,4 +1,4 @@
-package baekjoon.recursion;
+package baekjoon;
 
 import java.util.*;
 

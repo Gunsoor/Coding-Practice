@@ -1,9 +1,9 @@
-package baekjoon.recursion;
+package baekjoon;
 
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/1193
-public class FindFraction {
+public class FindFraction1193 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int input = scan.nextInt();
